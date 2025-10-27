@@ -1,16 +1,20 @@
 Notas de Atletas — Desafio de Certificação
 
 Descrição
+
 Este código calcula a média das notas de atletas de ginástica artística. 
 Para cada atleta, o programa recebe cinco notas, descarta a maior e a menor, calcula a média e mostra o resultado.
 
 Contexto
+
 Este desafio foi proposto como parte do curso “Lógica de Programação com JavaScript”. A ideia é treinar conceitos da linguagem, trabalhar com listas (arrays), objetos, laços de repetição, funções e formatação de números, aplicação prática.
 
 Como funciona
+
 Entrada: uma lista com atletas, cada um com nome e cinco notas.
 
 Passos do cálculo:
+
 * Ordena as notas para encontrar a menor e a maior.
 
 * Remove a menor e a maior nota.
