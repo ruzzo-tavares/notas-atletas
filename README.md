@@ -37,7 +37,7 @@ Como executar
 * No navegador: coloque o código em um arquivo .html (ou referencie um .js) e abra no navegador; veja o resultado no console.
 
 * No Node.js: salve como notas-atletas.js e rode no terminal com: node notas-atletas.js
-* 
+
 
 SAÍDA SOLICITADA NO DESAFIO:
 
