@@ -37,6 +37,7 @@ Como executar
 * No navegador: coloque o código em um arquivo .html (ou referencie um .js) e abra no navegador; veja o resultado no console.
 
 * No Node.js: salve como notas-atletas.js e rode no terminal com: node notas-atletas.js
+* 
 
 SAÍDA SOLICITADA NO DESAFIO:
 
@@ -46,11 +47,13 @@ Notas Obtidas: 10,10,7.88,8.42,9.34
 
 Média Válida: 9,253333
 
+
 Atleta: Fernando Puntel
 
 Notas Obtidas: 10,10,7,8,9.33
 
 Média Válida: 9.11
+
 
 Atleta: Daiane Jelinsky
 
@@ -58,11 +61,13 @@ Notas Obtidas: 10,7,8,9.5,9.5
 
 Média Válida: 9
 
+
 Atleta: Bruno Castro
 
 Notas Obtidas: 10,10,10,9,9.5
 
 Média Válida: 9.83333333333
+
 
 O que foi praticado
 
