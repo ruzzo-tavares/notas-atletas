@@ -34,7 +34,7 @@ Saída para cada atleta:
 
 Como executar
 
-* No navegador: coloque o código em um arquivo .html (ou referencie um .js) e abra no navegador; veja o resultado no console.
+* No navegador: utilize um editor de codigo JavaScript online como: playcode.io , mycompiler.io , codepen.io, etc.
 
 * No Node.js: salve como notas-atletas.js e rode no terminal com: node notas-atletas.js
 
