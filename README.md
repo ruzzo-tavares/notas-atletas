@@ -11,7 +11,7 @@ Este desafio foi proposto como parte do curso “Lógica de Programação com Ja
 
 Como funciona
 
-Entrada: uma lista com atletas, cada um com nome e cinco notas.
+* Entrada: uma lista com atletas, cada um com nome e cinco notas.
 
 Passos do cálculo:
 
@@ -41,19 +41,27 @@ Como executar
 SAÍDA SOLICITADA NO DESAFIO:
 
 Atleta: Cesar Abascal
+
 Notas Obtidas: 10,10,7.88,8.42,9.34
+
 Média Válida: 9,253333
 
 Atleta: Fernando Puntel
+
 Notas Obtidas: 10,10,7,8,9.33
+
 Média Válida: 9.11
 
 Atleta: Daiane Jelinsky
+
 Notas Obtidas: 10,7,8,9.5,9.5
+
 Média Válida: 9
 
 Atleta: Bruno Castro
+
 Notas Obtidas: 10,10,10,9,9.5
+
 Média Válida: 9.83333333333
 
 O que foi praticado
