@@ -1,19 +1,19 @@
-Notas de Atletas — Desafio de Certificação
+**Notas de Atletas — Desafio de Certificação**
 
-Descrição
+**Descrição**
 
 Este código calcula a média das notas de atletas de ginástica artística. 
 Para cada atleta, o programa recebe cinco notas, descarta a maior e a menor, calcula a média e mostra o resultado.
 
-Contexto
+**Contexto**
 
 Este desafio foi proposto como parte do curso “Lógica de Programação com JavaScript”. A ideia é treinar conceitos da linguagem, trabalhar com listas (arrays), objetos, laços de repetição, funções e formatação de números, aplicação prática.
 
-Como funciona
+**Como funciona**
 
 * Entrada: uma lista com atletas, cada um com nome e cinco notas.
 
-Passos do cálculo:
+**Passos do cálculo:**
 
 * Ordena as notas para encontrar a menor e a maior.
 
@@ -24,7 +24,7 @@ Passos do cálculo:
 * Divide por 3 para obter a média.
 
 
-Saída para cada atleta:
+**Saída para cada atleta:**
 
 * Nome.
 
@@ -32,14 +32,14 @@ Saída para cada atleta:
 
 * Média no formato solicitado (com número de casas e separador iguais ao solicitado pelo desafio).
 
-Como executar
+**Como executar**
 
 * No navegador: utilize um editor de codigo JavaScript online como: playcode.io , mycompiler.io , codepen.io, etc. , copie o codigo e teste no console.
 
 * No Node.js: salve como notas-atletas.js e rode no terminal com: node notas-atletas.js
 
 
-SAÍDA SOLICITADA NO DESAFIO:
+**SAÍDA SOLICITADA NO DESAFIO:**
 
 Atleta: Cesar Abascal
 
@@ -69,7 +69,7 @@ Notas Obtidas: 10,10,10,9,9.5
 Média Válida: 9.83333333333
 
 
-O que foi praticado
+**O que foi praticado**
 
 * Como percorrer listas e organizar dados.
 
